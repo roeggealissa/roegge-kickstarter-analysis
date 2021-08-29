@@ -37,3 +37,12 @@ From this graph we can draw a couple of initial conclusions. The first conclusio
 
 The second conclusion that can be drawn is the months of October and December display a lower success to failure ratio. The ratio in both months falls to below the 1.68 average to 1.3 and 1.05 respectively.  This could have a variety of reasons for the correlation, such as less projects overall submitted to Kickstarter in that period, or a higher rate of failed projects compared to the average. 
 
+The month of February is another alternative launch month. While it does not have the same high success rate of the early summer months, it does have an increase in successful projects and doesn't have the same overall submission rate of projects as the summer months.
+
+The recommendations based on the results are as follows:
+
+-We recommend aiming for a starting launch date between May 1st and July 31st.
+
+-We recommend the client avoid launching the Kickstarter between the months of October and December. 
+
+-We recommend looking into February if the client is concerned about the amount of Kickstarter projects with concurrent launches.
