@@ -26,7 +26,7 @@ As many of the campaigns received no funding, we included iferror functions into
 
 ### Conclusions
 
-##### Campaign Launch Date against Outcome
+##### Campaign Launch Date against Campaign Outcome
 
 The client does not have a firm launch date, so using Pivot Tables and Pivot Charts we studied if there was a correlation between the date a Kickstarter is launched and the likelihood of successful funding.
 
@@ -46,3 +46,21 @@ The recommendations based on the results are as follows:
 -We recommend the client avoid launching the Kickstarter between the months of October and December. 
 
 -We recommend looking into February if the client is concerned about the amount of Kickstarter projects with concurrent launches.
+
+##### Funding Goal against Campaign Outcome
+
+Louise has an initial estimate of the minimum funding required for Fever, so our analysis continued to determine if the launch goal would be a detriment to the overall Kickstarter. As Louise estimated a goal around 12,000 USD, looked at plays funded in the United States around similar funding goals.
+
+![Figure 2: Binned launch goal against the percentage of camapaign sucess or failure.](https://github.com/roeggealissa/roegge-kickstarter-analysis/blob/3d1983651de1ccb00121d0d0dcaad6e194b90b36/Outcomes_vs_Goals.png)
+
+Overall, Louise is not in a crowded funding goal category, with most projects having goals between 1000 and 4999 USD. On average for all the American plays Kickstarted, 45% are funded and 55% fail. In the monetary range Louise is looking to launch in, the percentage succeeded and failed are 54% and 46% respectively, so not statistically different than the average for this subsection of data. Reducing her budget to under 10,000 USD does not make a significant difference in terms of outcome and increasing her budget over 15,000 makes her odds of success 50/50. 
+
+The most successful projects in the play category are either small projects with a sub 1,000 USD goal or moderately large projects between 35,000 USD and 45,000 USD. The projects most likely to fail are the over 45,000 USD budget projects and projects with a budget between 25,000 USD to 35,000 USD. 
+
+The recommendation based on the results are as follows:
+
+-Do not increase the budget on the Kickstarter beyond 15,000 USD.
+
+-If possible, break the project down into chunks with launch goals of less than 5,000 USD.
+
+
