@@ -3,7 +3,7 @@
 
 ### Introduction 
 
-The client, Louise, has contacted us regarding a play they are planning to launch in America using the crowd funding website Kickstarter. This website has the user to specify a minimum funding goal and a project deadline by which the minimum goal must be reached; if the goal is not reached the money is returned to the investors. Louise’s project is a play titled Fever with an initial estimated budget of around 12,000 USD and no set deadline. This report details the analysis of Kickstarter data, initial conclusions drawn, and limitations of the dataset or analysis are addressed.
+Kickstarter is a great website for small groups to find funding for upcoming projects. This website has the user to specify a minimum funding goal and a project deadline by which the minimum goal must be reached; if the goal is not reached the money is returned to the investors. The project we're analyzing is a play titled Fever with an initial estimated budget of around 12,000 USD and no set deadline. This report details the analysis of Kickstarter data, initial conclusions drawn, and limitations of the dataset or analysis are addressed.
 
 ### Data Analysis
 
